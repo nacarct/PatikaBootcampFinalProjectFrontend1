@@ -1,0 +1,70 @@
+::ng-deep .mat-horizontal-stepper-header{
+  pointer-events: none !important;
+}
+
+.cardHeader{
+  color: orangered;
+}
+
+.fullWidth{
+  width: 100%;
+}
+
+.bigHeight{
+  height: 100px;
+}
+
+.footerButtons{
+  text-align: right;
+}
+
+priceCard{
+  text-align: center;
+  margin: 0 auto;
+  align-items: center;
+  vertical-align: center;
+  horiz-align: center;
+}
+
+.priceCard.pc1{
+  border-color: bisque;
+}
+
+.priceCard.pc2{
+  border-color: dodgerblue;
+}
+
+.priceCard.pc3{
+  border-color: darkorchid;
+}
+
+.priceCardHeader{
+  margin: 5px;
+  padding: 5px;
+  text-align: center;
+  font-size: 18px;
+  border-radius: 10px;
+}
+
+.pch1{
+  background-color: lightgreen;
+}
+
+.pch2{
+  background-color: dodgerblue;
+}
+
+.pch3{
+  background-color: darkorchid;
+}
+
+.priceCardPrice{
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.priceCardFooter{
+  text-align: center;
+  font-size: 14px;
+}
