@@ -1,27 +1,15 @@
-# TnInsurance
+# Insurance Frontend App 1 (Angular version 13.1.2.)
+[Backend App](https://github.com/nacarct/PatikaBootcampFinalProjectBackend) - [Frontend App 1](https://github.com/nacarct/PatikaBootcampFinalProjectFrontend1) - [Frontend App 2](https://github.com/nacarct/PatikaBootcampFinalProjectFrontend2)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+# 1
+<img width="1200" alt="1" src="https://user-images.githubusercontent.com/7365193/153722264-e11b7ff8-b42e-4f80-aa18-f34a74f9fe67.png">
 
-## Development server
+# 2
+<img width="1200" alt="2" src="https://user-images.githubusercontent.com/7365193/153722529-7d0c71e8-26fd-4a75-b926-a1b81ddaa33f.png">
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# 3
+<img width="1200" alt="3" src="https://user-images.githubusercontent.com/7365193/153722549-26b68f23-a76c-44ca-a5b2-58a02993cfba.png">
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# 4
+<img width="1200" alt="4" src="https://user-images.githubusercontent.com/7365193/153722552-dd7adfbb-3887-43f9-ae60-df6de5ae12d8.png">
+<img width="1200" alt="5" src="https://user-images.githubusercontent.com/7365193/153722564-4c137ab9-341b-4149-8d2c-7608db80ba55.png">
